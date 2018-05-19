@@ -1,4 +1,4 @@
-# P1-FindingLaneLines
+# FindingLaneLines
 ## SelfDrivingCar Nano degree project_1 
 
 ## Finding Lane Lines on the Road
